@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "validatorretch",
+        "uuid": 19462144,
+        "checksum": "pcvkek"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
